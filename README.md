@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/inam-syed-3732b4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inam-syed-3732b4228/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/inam-syed-3732b4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inam-syed-3732b4228/" height="30" width="40" /></a>
 <a href="https://instagram.com/inam_syedk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inam_syedk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/inam_syed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/inam_syed/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/inam_syed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/inam_syed/" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
