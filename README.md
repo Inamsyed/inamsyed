@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inamsyed&label=Profile%20views&color=0e75b6&style=flat" alt="inamsyed" /> </p>
 
-- 🔭 I’m currently learning **AI integrated with Python**
+- 🔭 I’m currently learning **AI integration with Python**
 
-- 📫 How to reach me **inamsyed2020@gmail.com**
+- 📫 Reach me @ **inamsyed2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
