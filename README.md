@@ -9,9 +9,12 @@
 - 📫 Reach me @ **inamsyed2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/inam-syed-3732b4228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inam-syed-3732b4228/" height="30" width="40" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/inam-syed-3732b4228/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 <br>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
