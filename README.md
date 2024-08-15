@@ -63,7 +63,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
        </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <a href="https://firebase.google.com/">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
