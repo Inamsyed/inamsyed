@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently learning **AI integration with Python**
 
-- 📫 Reach me @ **inamsyed2020@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
   <a href="mailto:inamsyed2020@gmail.com">
