@@ -9,59 +9,63 @@
 - 📫 Reach me @ **inamsyed2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://skillicons.dev">
+
+  <a href="mailto:inamsyed2020@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  
   <a href="https://www.linkedin.com/in/inam-syed-3732b4228/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
 <br>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  
-  <a 
-  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-<a 
-  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-<a 
-  href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+    <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+   </a>
+    <a href="https://www.cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
 </p>
-
-
-
-
 <h3 align="left">Extras:</h3>
 <p align="left"> 
-  <a 
-  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-  <a
-  href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-  <a 
-  href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a 
-  href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
-<a 
-  href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
-<a 
-  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a
-  href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a 
-  href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
+       </a>
+    <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+       </a>
+    <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+       </a>
+    <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+       </a>
+    <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+       </a>
+    <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+       </a>
+    <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+       </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
 </p>
 
 
