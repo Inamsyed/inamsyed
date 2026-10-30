@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Inam Syed <img align="right" width="160" src="TCDlogo.gif"></h1>
 <h3 align="center">Computer Science student at Trinity College Dublin</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=inamsyed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
